@@ -4,9 +4,9 @@ constructor(x,y){
 var options={
     isStatic:false,
     length:20,
-    restitution:0.3,
-    friction:0.3,
-    density:0.6
+    restitution:1,
+    friction:0,
+    density:0.3
 }
 
 this.radius=25;
